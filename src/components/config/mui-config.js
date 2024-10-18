@@ -27,23 +27,23 @@ export const theme = createTheme({
     h3: {
       fontWeight: "700",
       fontSize: "px",
-      color: `${Colors.accent}`,
+      color: `${Colors.Accent}`,
     },
     h4: {
       fontWeight: "400",
       fontSize: "18px",
-      color: `${Colors.text}`,
+      color: `${Colors.Text}`,
     },
     body1: {
       fontWeight: "700",
       fontSize: "16px",
       lineHeight: "175%",
-      color: `${Colors.subTextColor}`,
+      color: `${Colors.SubTextColor}`,
     },
     body2: {
       fontWeight: "400",
       fontSize: "px",
-      color: `${Colors.text}`,
+      color: `${Colors.Text}`,
     },
   },
 });
